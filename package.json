@@ -1,0 +1,29 @@
+{
+  "name": "transearly",
+  "version": "1.0.0",
+  "description": "Do not TransLate. Do TransEarly.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plaonn/TransEarly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/plaonn/TransEarly/issues"
+  },
+  "homepage": "https://github.com/plaonn/TransEarly#readme",
+  "devDependencies": {
+    "@types/chrome": "^0.1.42",
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.3",
+    "vite": "^8.0.11"
+  }
+}
